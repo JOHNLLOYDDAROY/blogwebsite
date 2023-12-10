@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background: #efefef;
+    
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 55px;
+    padding-top: 20px;
+
+}
+.post{
+   margin-top: 50px;
+   width: 50%;
+   border: 0;
+   outline: 0;
+   border-bottom: 1px solid #ccc;
+   background: transparent;
+   resize: none;
+}
